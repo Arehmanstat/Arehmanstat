@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arehmanstat
-- 👀 I’m interested in python 
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on python 
+- 👀 I’m interested in R and Python
+- 🌱 I’m currently learning R and python 
+- 💞️ I’m looking to collaborate on R and python use for Clinical Trials
 - 📫 How to reach me 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
